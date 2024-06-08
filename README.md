@@ -1,39 +1,22 @@
 # Project 6: Creating Classes with Inheritance
 
+In this project, I focused on achieving several key learning objectives through the creation and implementation of classes with inheritance. Here's a summary of what I accomplished:
+
 ## Learning Objectives
 
-Upon completing this project, you will:
+- **Working with Classes and Inheritance:** I gained experience creating and working with classes, utilizing inheritance to create specialized subclasses with shared properties and methods.
+- **Debugging Skills:** I further enhanced my debugging skills by identifying and resolving issues within the codebase to ensure its proper functioning.
+- **Data Processing:** I practiced using a generic block of code to process data, applying it to various scenarios within the project requirements.
+- **Interpreting Functional Descriptions:** I strengthened my ability to interpret functional descriptions and specifications to complete project assignments accurately.
+- **Node.js Development:** I continued to refine my skills in writing and executing non-web server Node.js JavaScript code using Visual Studio Code (VSCode) as my primary development environment.
+- **Modern JavaScript Syntax:** I utilized modern JavaScript syntax throughout the project, ensuring adherence to best practices and standards.
+- **Working with Static Data:** I gained more experience working with static data, leveraging it within the context of the project requirements.
 
-- Gain experience creating and working with classes with inheritance.
-- Enhance your skills in creating and working with classes.
-- Gain more experience debugging code.
-- Gain more experience using a generic block of code to process data.
-- Enhance your ability to interpret functional descriptions and specifications to complete an assignment.
-- Gain more experience writing and executing non-web server Node.js JavaScript code using Visual Studio Code (VSCode).
-- Practice using modern JavaScript syntax.
-- Gain more experience working with static data.
+## Overview of Project Tasks
 
-## Overview
+1. **Shape Class:** I created a Shape class, laying the foundation for the Rectangle and Triangle classes by providing a method to calculate the perimeter.
+2. **Rectangle Class:** I implemented a Rectangle class that inherits from the Shape class, incorporating a method to calculate the area specific to rectangles.
+3. **Triangle Class:** Similarly, I created a Triangle class that inherits from the Shape class, implementing a method to calculate the area specific to triangles.
+4. **Debugging and Testing:** I meticulously debugged the code to ensure its proper functioning and rigorously tested the classes with sample data to verify their functionality and accuracy.
 
-In this project, you will create three classes: Shape, Rectangle, and Triangle. The Shape class will serve as a base class for the Rectangle and Triangle classes, which will inherit from it. Inheritance allows child classes to inherit properties and methods from a parent class.
-
-The Shape class will provide a method to calculate the perimeter, while the Rectangle and Triangle classes will each provide their own method to calculate the area.
-
-### Project Tasks:
-
-1. **Shape Class:**
-   - Create a Shape class with a method to calculate the perimeter.
-
-2. **Rectangle Class:**
-   - Create a Rectangle class that inherits from the Shape class.
-   - Implement a method to calculate the area specific to rectangles.
-
-3. **Triangle Class:**
-   - Create a Triangle class that also inherits from the Shape class.
-   - Implement a method to calculate the area specific to triangles.
-
-4. **Debugging and Testing:**
-   - Debug the code to ensure it functions correctly.
-   - Test the classes with sample data to verify their functionality.
-
-Completing this project will provide you with valuable experience in working with classes, understanding inheritance, debugging code, and implementing object-oriented programming concepts in JavaScript.
+Through this project, I gained valuable experience in working with classes, understanding inheritance, debugging code, and implementing object-oriented programming concepts in JavaScript, further solidifying my skills as a developer.
